@@ -10,9 +10,9 @@
 2. React.js
 3. Typescript
 4. Javascript
-5. Loyouting {
+5. Loyouting 
    1. HTML
    2. CSS
    3. Bootstrap
    4. Tailwind CSS
-} 
+
